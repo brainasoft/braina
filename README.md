@@ -1,2 +1,2 @@
 # braina
-AI Assistant
+[AI Assistant](https://braina.ai)
